@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* Primer Codigo CSSPrincipal 1*/
+p[name="perito"]{color:red;}
+p[name="secretariado"]{color:lightcoral;}
+p[name="computacion"]{color:#435492;}

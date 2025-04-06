@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* Tercer Codigo CSSPrincipal 3 */
+.flexbox{
+display: flex;
+border: 2px solid #364D8C;
+background-color: slategray;
+padding: 10px;
+width: 25%; 
+}
+#blanco{
+padding: 20px;
+margin: 10px;
+background-color: white;
+}
+#rosado{
+padding: 20px;
+margin: 10px;
+background-color: pink;
+}
+#celeste{
+padding: 20px;
+margin: 10px;
+background-color: skyblue;
+}	
+
